@@ -1,0 +1,32 @@
+
+/*# sourceMappingURL=custom.min.css.map */
+.isw-btn-pay {
+    border: 1px solid rgb(206, 206, 206);
+    height: 40px;
+    margin: 0;
+    box-shadow: rgb(226, 224, 224) 0px 1px 3px;
+    padding: 0 2em 0 0.8em;
+    font-weight: 700;
+    border-radius: 4px;
+    color: rgb(0, 66, 95);
+    font-size: 13px;
+    text-transform: uppercase;
+    background-color: #FFF;
+    background-image: url('public/images/isw_paynow_btnbg.html');
+    width: 150px;
+    display: inline-block;
+    /* padding: 1em; */
+    box-sizing: border-box;
+    cursor: pointer;
+    font-family: "proxima-nova", sans-serif, "Helvetica";
+}
+
+.isw-pay-logo {
+    float: left;
+}
+
+.isw-pay-text {
+    margin-top: 10px;
+    display: inline-block;
+    margin-left: 8px;
+}
